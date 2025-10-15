@@ -1,5 +1,10 @@
 
 public class Main {
+
+    public static void func(){
+        System.out.println("Я новая фича в новой ветке");
+    }
+
     public static void main(String[] args) {
 
         System.out.printf("Hello and welcome!");
@@ -8,6 +13,8 @@ public class Main {
 
             System.out.println("i = " + i);
         }
+
+
 
     }
 }
